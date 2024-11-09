@@ -49,3 +49,11 @@ a {
 a:hover {
     background-color: #0011ff;
 }
+@media screen and (max-width: 768px) {
+    h2 {
+        font-size: 35px;
+    }
+    h1 {
+        font-size: 100px;
+    }
+}
